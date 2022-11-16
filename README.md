@@ -1,3 +1,7 @@
+Try it by copy this link: http://3.145.132.200
+It is based on amazon EC2
+
+
 # OnlineOrder Project
 Developed a ubereats/doordash liked full stack web app
 
@@ -22,5 +26,3 @@ Full-stack Web Service Development for Online Ordering App with React and Spring
   
 • Build the client side with ReactJS and Ant Design to allow users add items to the shopping cart
   and place orders.
-  
-  NOTE: An AWS EC2 link for project demo will be added soon
