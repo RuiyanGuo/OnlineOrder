@@ -1,14 +1,13 @@
 Try it by copy this link: http://3.145.132.200
 It is based on amazon EC2
 
-
-# OnlineOrder Project
 Developed a ubereats/doordash liked full stack web app
 
 FrontEnd: React
 
 BackEnd: Java with Spring Framwork and Hibernate for data access
 
+# OnlineOrder Project
 Project Description:
 
 Full-stack Web Service Development for Online Ordering App with React and Spring Boot
