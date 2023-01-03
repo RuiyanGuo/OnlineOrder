@@ -28,7 +28,7 @@ public class HelloServlet extends HttpServlet {
 //        response.setContentType("application/json");
 //        ObjectMapper mapper = new ObjectMapper();
 //        Customer customer= new Customer();
-//        customer.setEmail("sun@laioffer.com");
+//        customer.setEmail("sun@m.com");
 //        customer.setPassword("123456");
 //        customer.setFirstName("rick");
 //        customer.setLastName("sun");
@@ -36,7 +36,7 @@ public class HelloServlet extends HttpServlet {
 
 //        response.setContentType("application/json");
 //        JSONObject customer = new JSONObject();
-//        customer.put("email", "sun@laioffer.com");
+//        customer.put("email", "sun@m.com");
 //        customer.put("first_name", "rick");
 //        customer.put("last_name", "sun");
 //        customer.put("age", 50);
@@ -44,7 +44,7 @@ public class HelloServlet extends HttpServlet {
         response.setContentType("application/json");
         ObjectMapper mapper = new ObjectMapper();
         Customer customer= new Customer();
-        customer.setEmail("sun@laioffer.com");
+        customer.setEmail("sun@m.com");
         customer.setPassword("123456");
         customer.setFirstName("rick");
         customer.setLastName("sun");
